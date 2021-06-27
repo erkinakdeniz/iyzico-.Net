@@ -1,0 +1,10 @@
+C:\Users\Erkin\source\repos\Iyzico\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Erkin\source\repos\Iyzico\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Erkin\source\repos\Iyzico\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Erkin\source\repos\Iyzico\Core\obj\Debug\netstandard2.1\Core.pdb
