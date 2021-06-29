@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,11 +34,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -329,14 +329,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -359,11 +359,11 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj"
               },
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj"
               }
             }
           }
@@ -426,14 +426,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -456,8 +456,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj"
               }
             }
           }
@@ -490,14 +490,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Tests\\Tests.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Tests\\Tests.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -520,14 +520,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj"
               },
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj"
               },
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\WebAPI.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\WebAPI.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\WebAPI.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\WebAPI.csproj"
               }
             }
           }
@@ -600,14 +600,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -630,11 +630,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Business\\Business.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Business\\Business.csproj"
               },
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj"
               }
             }
           }

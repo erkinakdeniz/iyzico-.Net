@@ -3366,6 +3366,7 @@
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
           "Microsoft.IdentityModel.Tokens": "6.8.0",
           "Microsoft.OpenApi": "1.2.3",
+          "Microsoft.Win32.Registry": "5.0.0",
           "MimeKit": "2.10.1",
           "MongoDB.Bson": "2.11.6",
           "MongoDB.Driver": "2.11.6",

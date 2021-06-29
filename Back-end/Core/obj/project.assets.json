@@ -10600,11 +10600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

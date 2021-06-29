@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj": {
+    "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Erkin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -226,8 +226,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj"
+              "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj"
               }
             }
           }

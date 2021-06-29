@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOsK+li98brAjMJwunHLwIGLla4jWWaraO+I3CoL35dd1JGSP1Bpb501TnrGi/KuBMkzPH9N7JkkWf2L+LnIIA==",
+  "dgSpecHash": "k2CT7LNw7r//T9vepB1aO/pVdQ+y6kz42LWK4i1UWlJ38DaacUGt9XjBr1iP4yJLb4iimIggWOYqax4TfDoWwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erkin\\source\\repos\\Iyzico\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Erkin\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Erkin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

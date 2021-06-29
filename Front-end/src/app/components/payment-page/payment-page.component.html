@@ -76,6 +76,7 @@
                 type="text"
                 class="form-control"
                 id="firstName"
+                formControlName="firstName"
                 placeholder=""
                 value=""
                 required
@@ -89,6 +90,7 @@
                 type="text"
                 class="form-control"
                 id="lastName"
+                formControlName="lastName"
                 placeholder=""
                 value=""
                 required
@@ -119,6 +121,7 @@
                 type="email"
                 class="form-control"
                 id="email"
+                formControlName="email"
                 placeholder="you@example.com"
               />
               <div class="invalid-feedback">
@@ -131,7 +134,8 @@
               <input
                 type="text"
                 class="form-control"
-                id="address"
+                id="Identification"
+                formControlName="Identification"
                 placeholder="12345678911"
                 required
               />
@@ -147,14 +151,15 @@
               <input
                 type="text"
                 class="form-control"
-                id="address2"
+                id="address"
+                formControlName="address"
                 placeholder="Apartment or suite"
               />
             </div>
 
             <div class="col-md-5">
               <label for="country" class="form-label">Country</label>
-              <select class="form-select" id="country" required>
+              <select class="form-select" id="country" formControlName="country" required>
                 <option value="">Choose...</option>
                 <option>United States</option>
               </select>
@@ -163,7 +168,7 @@
 
             <div class="col-md-4">
               <label for="state" class="form-label">State</label>
-              <select class="form-select" id="state" required>
+              <select class="form-select" id="state" formControlName="state" required>
                 <option value="">Choose...</option>
                 <option>California</option>
               </select>
@@ -186,14 +191,14 @@
           <hr class="my-4" />
 
           <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="same-address" />
+            <input type="checkbox" class="form-check-input" id="same-address" formControlName="same_address" />
             <label class="form-check-label" for="same-address"
               >Shipping address is the same as my billing address</label
             >
           </div>
 
           <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="save-info" />
+            <input type="checkbox" class="form-check-input" id="save-info" formControlName="save_info" />
             <label class="form-check-label" for="save-info"
               >Save this information for next time</label
             >
@@ -207,33 +212,39 @@
             <div class="form-check">
               <input
                 id="credit"
+                formControlName="paymentMethod"
+                value="iyzico"
                 name="paymentMethod"
                 type="radio"
                 class="form-check-input"
                 checked
                 required
               />
-              <label class="form-check-label" for="credit">Credit card</label>
+              <label class="form-check-label" for="credit">İyzico</label>
             </div>
             <div class="form-check">
               <input
                 id="debit"
                 name="paymentMethod"
+                formControlName="paymentMethod"
+                value="bankOne"
                 type="radio"
                 class="form-check-input"
                 required
               />
-              <label class="form-check-label" for="debit">Debit card</label>
+              <label class="form-check-label" for="debit">Bank One</label>
             </div>
             <div class="form-check">
               <input
                 id="paypal"
                 name="paymentMethod"
+                formControlName="paymentMethod"
+                value="banktwo"
                 type="radio"
                 class="form-check-input"
                 required
               />
-              <label class="form-check-label" for="paypal">PayPal</label>
+              <label class="form-check-label" for="paypal">Bank Two</label>
             </div>
           </div>
 
@@ -243,6 +254,7 @@
               <input
                 type="text"
                 class="form-control"
+                formControlName="cc_name"
                 id="cc-name"
                 placeholder=""
                 required
@@ -258,6 +270,7 @@
               <input
                 type="text"
                 class="form-control"
+                formControlName="cc_number"
                 id="kt_inputmask_credit"
                 placeholder=""
                 required
@@ -271,9 +284,9 @@
               <input
                 type="text"
                 class="form-control"
+                formControlName="cc_expiration"
                 id="kt_inputmask_1"
                 placeholder="mm/yy"
-                formControlName="asd"
                 required
               />
               <div class="invalid-feedback">Expiration date required</div>
@@ -285,6 +298,7 @@
                 type="text"
                 class="form-control"
                 id="cc-cvv"
+                formControlName="cc_cvv"
                 placeholder=""
                 maxlength="3"
                 required

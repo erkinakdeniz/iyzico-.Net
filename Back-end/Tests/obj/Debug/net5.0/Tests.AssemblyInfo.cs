@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Erkin\\source\\repos\\Iyzico\\WebAPI", "WebAPI.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Erkin\\Documents\\GitHub\\iyzico-.Net\\Back-end\\WebAPI", "WebAPI.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
