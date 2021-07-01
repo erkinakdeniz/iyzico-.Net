@@ -9,8 +9,8 @@ import { PaymentCard } from '../models/paymentCard';
 export class PayService {
 
   constructor(private httpClient:HttpClient) { }
-  addPay(paymentCard:any):Observable<PaymentCard>{
-    let newPath=environment.apiUrl+"Pay/Pay"
+  addPay(paymentCard:PaymentCard):Observable<any>{
+    let newPath=environment.apiUrl+"Iyzico/pay"
     return this.httpClient.post<PaymentCard>(newPath,paymentCard);
   }
 

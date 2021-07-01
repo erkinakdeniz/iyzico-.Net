@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: "rtg"
+  apiUrl: "https://localhost:44319/WebAPI/api/"
 };
 
 /*

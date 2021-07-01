@@ -86,7 +86,7 @@ namespace Business.Services.iyzico
             PaymentCard paymentCard = new PaymentCard
             {
                 CardHolderName = iyzicoModel.CardHolderName,
-                CardNumber = iyzicoModel.CardNumber,
+                CardNumber = iyzicoModel.CardNumber.Trim().Replace(" ",string.Empty),
                 ExpireMonth = iyzicoModel.ExpireMonth,
                 ExpireYear = iyzicoModel.ExpireYear,
                 Cvc = iyzicoModel.Cvc,
